@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Framgia's coding standard
 
 ##[日本語](./ja/README.md)
@@ -22,3 +23,5 @@
 ####[HTML-CSS](./eng/html_css/standard.md)
 =======
 # CodeStyle
+Style of code
+>>>>>>> 3bbbd03b3b4f246a9b6946fd92be2c4f9b0d95ef
